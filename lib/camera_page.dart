@@ -1,12 +1,8 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:pytorch_mobile/model.dart';
 import './end_page.dart';
 import 'package:http/http.dart' as http;
-import 'dart:convert';
-import 'dart:io';
-import 'dart:typed_data';
 
 // class Annotation {
 //   final int id;

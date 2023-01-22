@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.climbing_ai">
    <application
-        android:label="climbing_ai"
+        android:label="Route Scout"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/route_scout">
         <activity
             android:name=".MainActivity"
             android:exported="true"
